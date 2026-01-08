@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# GIS
+*.gdb
+*.lock
+*.sr.lock
+*.aux.xml
+
+# Python
+__pycache__/
+*.pyc
